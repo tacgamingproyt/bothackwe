@@ -1,0 +1,9 @@
+{
+	"ip":"network0.aternos.me",
+	"port": 36606,
+	"name": "afkbot1",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register 123456@ 123456@",
+	"login-cmd":"/login 123456@"
+}
